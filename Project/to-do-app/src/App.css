@@ -13,3 +13,8 @@ input {
   text-align: left;
 }
 
+button {}
+
+.row {
+  margin: 10px 5px;
+}
